@@ -9,5 +9,6 @@ Ping Pong game written in OpenGL
 
 ## HowTo ##
 Linux `g++ -o pingpong pingpong.cpp -lGL -lGLU -lglut`
+
 Windows `mingw32-g++ -o pingpong pingpong.cpp -lopengl32 -lglu32 -lglut`
 
